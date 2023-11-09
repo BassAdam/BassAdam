@@ -15,4 +15,4 @@ but also big data, api rest graphql, devops, security, cloud, and all quality an
 BassAdam/BassAdam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[ReadMe.md](https://github.com/BassAdam/BassAdam/files/13305965/ReadMe.md)
+
