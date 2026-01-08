@@ -37,11 +37,6 @@
 
 
 
-# 📊 GitHub Stats
-
-![Adam's GitHub Stats](https://github-readme-stats-aw68ev0jh-bassadams-projects.vercel.app/api?username=BassAdam&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-aw68ev0jh-bassadams-projects.vercel.app/api/top-langs/?username=BassAdam&layout=compact&theme=radical)
 
 
 ---
