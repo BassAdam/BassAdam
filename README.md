@@ -1,6 +1,6 @@
 
 # About Me:
-👋 Hi, I’m Adam – nice to meet you!
+👋 Hi, I’m Adam – nice to meet you
 
 🏆 I’m a Junior DevOps & Cloud Engineer, recently graduated with hands-on experience during a DevOps internship. During this internship, I worked on building and maintaining cloud infrastructure, automating CI/CD pipelines, containerizing applications, and implementing monitoring solutions. I enjoy optimizing workflows and ensuring systems run reliably in real-world environments.
 
