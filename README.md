@@ -39,9 +39,9 @@
 
 # 📊 GitHub Stats
 
-![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BassAdam&show_icons=true&theme=radical&count_private=true)
+![Adam's GitHub Stats](https://github-readme-stats-aw68ev0jh-bassadams-projects.vercel.app/api?username=BassAdam&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BassAdam&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-aw68ev0jh-bassadams-projects.vercel.app/api/top-langs/?username=BassAdam&layout=compact&theme=radical)
 
 
 ---
