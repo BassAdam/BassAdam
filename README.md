@@ -35,9 +35,10 @@
 ![Bash](https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BassAdam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BassAdam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BassAdam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- GitHub Stats -->
+![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BassAdam&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BassAdam&layout=compact&theme=dark)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BassAdam&icon=0&color=0)](https://visitcount.itsvg.in)
