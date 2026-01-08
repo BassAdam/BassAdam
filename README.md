@@ -1,10 +1,39 @@
 
-# 💫 About Me:
-👋 Hi, I’m Adam nice to meet you<br><br>👀 I'm passionate about the world of technology, I am deeply drawn to the field of computer science and the role of a developer. Exploring the intricacies of coding, solving problems, and creating innovative solutions. My drive to learn and contribute to the ever-evolving landscape of software development fuels my enthusiasm to continue a career in this dynamic and inspiring field.<br><br>🌱 I’m currently learning Software engineering at HETIC school in the Master's program CTO Tech Lead. In the two-year program, we study languages such as Python, Java, Javascript, Go, framework like react js, node js, flutter, react native but also big data, api rest graphql, devops, security, cloud, and all quality and strategy of CTO.<br><br>💞️ I’m actually a devOps engineer.<br><br>📫 How to reach me Send me an email
+# About Me:
+👋 Hi, I’m Adam – nice to meet you!
+
+🏆 I’m a Junior DevOps & Cloud Engineer, recently graduated with hands-on experience during a DevOps internship. During this internship, I worked on building and maintaining cloud infrastructure, automating CI/CD pipelines, containerizing applications, and implementing monitoring solutions. I enjoy optimizing workflows and ensuring systems run reliably in real-world environments.
+
+🌱 I’m actively looking for my next opportunity as a Junior DevOps & Cloud Engineer, where I can continue learning and contribute to high-quality, maintainable infrastructure projects.
 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+# 💻 Tech Stack
+
+**Cloud & Systems:**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**CI/CD:**  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5?style=for-the-badge&logo=github-actions&logoColor=white) 
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+**Containers:**  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%232496ED?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Infra as Code:**  
+![Terraform](https://img.shields.io/badge/Terraform-%235a3fcb?style=for-the-badge&logo=terraform&logoColor=white) 
+![Ansible](https://img.shields.io/badge/Ansible-%23000000?style=for-the-badge&logo=ansible&logoColor=white)
+
+**Monitoring & Observability:**  
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white) 
+
+
+**Scripting:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Bash](https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BassAdam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BassAdam&theme=dark&hide_border=false)<br/>
