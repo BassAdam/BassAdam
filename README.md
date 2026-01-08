@@ -35,13 +35,13 @@
 ![Bash](https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
+
+
 # 📊 GitHub Stats
 
-<!-- GitHub Stats -->
 ![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BassAdam&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BassAdam&layout=compact&theme=radical)
-
 
 
 ---
